@@ -1,2 +1,1 @@
-# test
-info for my self
+Тут описание проекта
